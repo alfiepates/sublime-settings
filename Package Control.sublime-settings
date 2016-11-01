@@ -1,10 +1,10 @@
 {
 	"installed_packages":
 	[
-		"editorconfig-sublime",
+		"EditorConfig",
 		"GitGutter",
+		"Package Control",
 		"SideBarEnhancements",
-		"Smyck-Color-Scheme",
 		"Theme - Spacegray"
 	]
 }
