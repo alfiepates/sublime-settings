@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"EditorConfig",
+		"Emmet",
 		"GitGutter",
 		"Package Control",
 		"SideBarEnhancements",
