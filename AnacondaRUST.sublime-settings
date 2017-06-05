@@ -1,0 +1,6 @@
+{
+  "rustc_binary_path": "/Users/alyssa/.cargo/bin/rustc",
+  "racer_binary_path": "/Users/alyssa/.cargo/bin/racer",
+  "rust_format_on_save": false,
+  "rust_src_path": "/Users/alyssa/.multirust/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src"
+}
