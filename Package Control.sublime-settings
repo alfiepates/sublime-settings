@@ -1,11 +1,46 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
+		"AlignTab",
+		"Anaconda",
+		"Better CoffeeScript",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Chmod",
+		"Color Highlighter",
+		"Craft-Twig",
+		"DashDoc",
+		"Dockerfile Syntax Highlighting",
 		"EditorConfig",
 		"Emmet",
+		"Fix Mac Path",
+		"Git",
 		"GitGutter",
+		"JSX",
+		"Liquid",
+		"MoveTab",
+		"Origami",
 		"Package Control",
+		"Pretty JSON",
+		"Pretty YAML",
+		"Rails Latest Migration",
+		"RailsCasts Colour Scheme",
+		"RailsGoToSpec",
+		"Rust Enhanced",
+		"Sass",
+		"SCSS",
 		"SideBarEnhancements",
-		"Theme - Spacegray"
+		"SortBy",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-rustc",
+		"SublimeLinter-rubocop",
+		"Theme - Spacegray",
+		"TOML",
+		"XMPFilter"
 	]
 }
