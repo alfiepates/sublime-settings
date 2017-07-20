@@ -59,5 +59,6 @@
 	"theme_tabset_line_visible": true,
 	"theme_tooltips_font_xs": true,
 	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true
 }
