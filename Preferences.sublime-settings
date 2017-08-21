@@ -17,6 +17,7 @@
 	],
 	"font_face": "Fira Mono",
 	"font_size": 14,
+	"hot_exit": false,
 	"ignored_packages":
 	[
 		"Vintage"
