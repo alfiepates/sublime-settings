@@ -1,9 +1,8 @@
 {
 	"additional_path_items":
 	[
-		"/Users/alyssa/.gem/ruby/2.4.1/bin"
 	],
-	"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Ocean.tmTheme",
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
 	[
@@ -15,7 +14,7 @@
 		"target",
 		"tmp"
 	],
-	"font_face": "Fira Mono",
+	"font_face": "Fantasque Sans Mono",
 	"font_size": 14,
 	"hot_exit": false,
 	"ignored_packages":
@@ -43,7 +42,7 @@
 	"theme_find_panel_atomized": true,
 	"theme_find_panel_close_hidden": true,
 	"theme_find_panel_size_xxs": true,
-	"theme_font_xs": true,
+	"theme_font_xs": false,
 	"theme_quick_panel_item_selected_colored": true,
 	"theme_quick_panel_size_sm": true,
 	"theme_scrollbar_rounded": true,
@@ -52,14 +51,14 @@
 	"theme_sidebar_heading_bold": true,
 	"theme_sidebar_icon_saturation_hg": true,
 	"theme_sidebar_indent_md": true,
-	"theme_size_xs": true,
+	"theme_size_xs": false,
 	"theme_statusbar_colored": true,
 	"theme_tab_arrows_hidden": true,
 	"theme_tab_close_always_visible": false,
 	"theme_tab_width_auto": true,
 	"theme_tabset_line_visible": true,
 	"theme_tooltips_font_xs": true,
-	"translate_tabs_to_spaces": true,
+	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true
 }
